@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+html * {
+    box-sizing: border-box;
+  }
+
+body{
+  background:rgb(166, 7, 186);
+}
+
+.itl{
+  margin: 0 auto 0 auto;
+  max-width: 960px;
+}
+
+.keyvisual{
+  margin: 0 0 0 0;
+  padding: 16px 10px 15px 20px;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.thinking{
+  font-size: 24px;
+  color:rgb(255, 255, 255);
+}
+
+.back{
+  background: #ffffff;
+  padding: 16px 10px 15px 20px;
+  text-align: center;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+  border-radius: 100vh;
+  width: 50%;
+  height:100%;
+  margin: 0% 80% 0% 24%;
+}
+
+.answer{
+  color:rgb(255, 255, 255);
+  margin: 0 0 0 0;
+  padding: 16px 10px 15px 20px;
+  text-align: center;
+}
+
+.back:hover{
+  margin-top: 3px;
+  color: #fff;
+  background: #6be774;
+  border-bottom: 2px
+}

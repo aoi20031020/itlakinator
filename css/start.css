@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+html * {
+  box-sizing: border-box;
+}
+
+body{
+  background: rgb(166, 7, 186)
+}
+
+
+
+.explain{
+  background-color: rgb(244, 226, 227);
+
+}
+
+.explain{
+  border: 1px solid rgb(231, 0, 7);
+  padding: 16px 5px 15px 10px;
+  width:50%;
+  margin: 0% 80% 0% 24%;
+}
+
+.explain{
+  text-align: center;
+}
+
+.keyvisual{
+  margin: 0 0 0 0;
+  padding: 16px 10px 15px 20px;
+  text-align: center;
+}
+
+.logo-text{
+  font-size: auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+.start-button{
+  background:#ffffff;
+  padding: 16px 10px 15px 20px;
+  text-align: center;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+  width: 50%;
+  height:100%;
+  margin: 0% 80% 0% 24%;
+}
